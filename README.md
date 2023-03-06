@@ -1,6 +1,6 @@
-# Blog Pablo Giraldo - Spring Boot - Angular
+# Blog Pablo Giraldo
 
 ## Tecnologías
 
-Autenticación con JWT, Spring Security, uso del patrón DTO.
+Spring Boot, Angular, Autenticación con JWT, Spring Security, uso del patrón DTO.
 
